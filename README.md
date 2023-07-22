@@ -1,3 +1,3 @@
 # BallDetection
-Ball Detection with Yolov8
+Ball Detection with Yolov8./n
 I created the dataset myself and annotated it using Roboflow. There is only one class in my dataset
